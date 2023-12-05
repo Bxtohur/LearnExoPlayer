@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exo Player</string>
+    <string name="video_link">http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</string>
+    <string name="link_video">http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4</string>
+</resources>
